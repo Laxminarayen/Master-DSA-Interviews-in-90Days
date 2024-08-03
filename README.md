@@ -1,4 +1,4 @@
-# DSA-Class-TestFlight
+# Class to Master DSA in 90days
 
 This document outlines a 90-day study plan for mastering data structures and algorithms (DSA). It details the topics to focus on daily, including space and time complexity, recursion, arrays, linked lists, stacks, queues, searching, sorting, hash tables, trees, heaps, sliding window techniques, graphs, dynamic programming, and object-oriented programming. Additional subjects such as number theory and bit manipulation are also included. The plan recommends participating in coding contests to practice and enhance skills after learning new concepts.
 
